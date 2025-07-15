@@ -49,6 +49,7 @@ Or simply use Extension pack for Java extensions in VS Code and run App.java wit
 
 - **Abstraction:** Abstract class for game interface.
 - **Inheritance & Polymorphism:** Game logic extends and overrides base methods.
+- **Encapsulation:** Private fields are used in classes, with public getter and setter methods to control access and modification of internal state.
 
 ## License
 
